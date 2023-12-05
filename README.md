@@ -5,7 +5,7 @@
     <a align="center" href="" target="_blank">
       <img
         width="850"
-        src="https://raw.githubusercontent.com/roboflow/notebooks/main/assets/roboflow-notebooks-banner.png"
+        src="https://raw.githubusercontent.com/HossamEldinx/NLP-Projects/main/codewello-banner.png"
       >
     </a>
   </p>
@@ -16,6 +16,22 @@
   <br>
 
 
+  <div align="center">
+      <a href="https://www.youtube.com/@codewello">
+          <img
+            src="https://media.roboflow.com/notebooks/template/icons/purple/youtube.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634652"
+            width="3%"
+          />
+      </a>
+      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+      <a href="https://www.linkedin.com/in/hossam-eldin/">
+          <img
+            src="https://media.roboflow.com/notebooks/template/icons/purple/linkedin.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691"
+            width="3%"
+          />
+      </a>
+
+  </div>
 
 
 </div>
