@@ -1,5 +1,25 @@
 ## NLP Projects with Data Analysis
 
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850"
+        src="https://raw.githubusercontent.com/roboflow/notebooks/main/assets/roboflow-notebooks-banner.png"
+      >
+    </a>
+  </p>
+  <br>
+
+  [Linkedin]() | [Youtube]() | 
+
+  <br>
+
+
+
+
+</div>
+
 
 | **Num** | **Project** | **repository** |
 |:----:|:------------:|:-------------------------------------------------:|
@@ -16,13 +36,14 @@
 | 11 | [Image-Caption-Generator](https://github.com/MiteshPuthran/Image-Caption-Generator/tree/master) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MiteshPuthran/Image-Caption-Generator/tree/master) |
 | 12 | [Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) |
 | 13 | [Detecting Paraphrases](https://github.com/wasiahmad/paraphrase_identification) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/wasiahmad/paraphrase_identification) |
-| 14 | [NLP-Chatbot](https://github.com/ankitamasand/nlp-chatbot) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ankitamasand/nlp-chatbot) |
-| 15 | [NLP-Chatbot](https://github.com/ankitamasand/nlp-chatbot) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ankitamasand/nlp-chatbot) |
-| 16 | [NLP-Chatbot](https://github.com/ankitamasand/nlp-chatbot) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ankitamasand/nlp-chatbot) |
-| 17 | [NLP-Chatbot](https://github.com/ankitamasand/nlp-chatbot) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ankitamasand/nlp-chatbot) |
-| 18 | [NLP-Chatbot](https://github.com/ankitamasand/nlp-chatbot) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ankitamasand/nlp-chatbot) |
-| 19 | [NLP-Chatbot](https://github.com/ankitamasand/nlp-chatbot) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ankitamasand/nlp-chatbot) |
-| 20 | [NLP-Chatbot](https://github.com/ankitamasand/nlp-chatbot) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ankitamasand/nlp-chatbot) |
+| 14 | [Hate Speech Detection](https://github.com/NakulLakhotia/Hate-Speech-Detection-in-Social-Media-using-Python/blob/master/final_customization.ipynb) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NakulLakhotia/Hate-Speech-Detection-in-Social-Media-using-Python/blob/master/final_customization.ipynb) |
+| 15 | [ The Android App Market on Google Play ](https://github.com/HossamEldinx/NLP-Projects/tree/main/Android%20Apps%20Google%20Play) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/HossamEldinx/NLP-Projects/tree/main/Android%20Apps%20Google%20Play) |
+| 16 | [Exploring the NYC Airbnb Market](https://github.com/HossamEldinx/NLP-Projects/tree/main/Nyc%20Airbnb) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/HossamEldinx/NLP-Projects/tree/main/Nyc%20Airbnb) |
+| 17 | [Word Frequency in Classic Novels](https://github.com/HossamEldinx/NLP-Projects/tree/main/Word%20Frequency%20in%20Classic%20Novels) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/HossamEldinx/NLP-Projects/tree/main/Word%20Frequency%20in%20Classic%20Novels) |
+| 18 | [NLP-Chatbot](https://github.com/mrbarkis/DataCamp_projects/tree/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mrbarkis/DataCamp_projects/tree/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries) |
+| 19 | [Real-time Insights from Social Media Data](https://github.com/mrbarkis/DataCamp_projects/tree/master/Real-time%20Insights%20from%20Social%20Media%20Data) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mrbarkis/DataCamp_projects/tree/master/Real-time%20Insights%20from%20Social%20Media%20Data) |
+| 20 | [Classify Song Genres from Audio Data](https://github.com/kayveen/Classify-Song-Genres-from-Audio-Data) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/kayveen/Classify-Song-Genres-from-Audio-Data) |
+
 
 
 
