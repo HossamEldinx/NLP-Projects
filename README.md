@@ -2,7 +2,7 @@
 
 
 | **Project** | **repository ** |
-|:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|
+|:------------:|:-------------------------------------------------:|
 | [/Image-Caption-Generator](https://github.com/MiteshPuthran/Image-Caption-Generator/tree/master) | [![GitHub](https://github.com/MiteshPuthran/Image-Caption-Generator/tree/master) |
 
 
