@@ -1,9 +1,9 @@
 ## _NLP Projects with Data Analysis
 
 
-| **Project** | **repository ** |
-|:------------:|:-------------------------------------------------:|
-| [/Image-Caption-Generator](https://github.com/MiteshPuthran/Image-Caption-Generator/tree/master) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MiteshPuthran/Image-Caption-Generator/tree/master) |
+|** Num **| **Project** | **repository ** |
+|:----:|:------------:|:-------------------------------------------------:|
+| 11 | [Image-Caption-Generator](https://github.com/MiteshPuthran/Image-Caption-Generator/tree/master) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MiteshPuthran/Image-Caption-Generator/tree/master) |
 
 
 This project was created to learn more about natural language processing by building and data analysis.
