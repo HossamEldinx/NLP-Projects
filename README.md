@@ -11,30 +11,17 @@
   </p>
   <br>
 
-  [Linkedin]() | [Youtube]() | 
+  [Linkedin](https://www.linkedin.com/in/hossam-eldin/) | [Youtube](https://www.youtube.com/@codewello) | 
+
 
   <br>
-
-
-  <div align="center">
-      <a href="https://www.youtube.com/@codewello">
-          <img
-            src="https://media.roboflow.com/notebooks/template/icons/purple/youtube.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634652"
-            width="3%"
-          />
-      </a>
-      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-      <a href="https://www.linkedin.com/in/hossam-eldin/">
-          <img
-            src="https://media.roboflow.com/notebooks/template/icons/purple/linkedin.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691"
-            width="3%"
-          />
-      </a>
-
-  </div>
-
-
 </div>
+
+
+## 👋 hello my name is hossam eldin
+
+
+I've put together this awesome list to help you and me create cool projects in NLP and data analysis! It's a step-by-step guide that's perfect for beginners to intermediate levels, using all sorts of libraries. Whether you're a newbie or a bit more experienced, you'll find this super useful.
 
 
 | **Num** | **Project** | **repository** |
@@ -63,21 +50,3 @@
 
 
 
-This project was created to learn more about natural language processing by building and data analysis.
-
-## using:
-    -Pandas
-    -NLTK
-    -BeautifulSoup
-    -ChatGPT as assistant
-    -matplotlib
-    
-
-
-
-
-## Projects in this Repo
-
-    -Android Apps Google Play
-    -NYC Airbnb
-    -Word Frequency in Classic Novels
